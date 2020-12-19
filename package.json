@@ -1,6 +1,6 @@
 {
-  "name": "algo.js",
-  "version": "1.0.0",
+  "name": "asap-algo.js",
+  "version": "1.0.1",
   "description": "Javascript library with the algorithms that i'm learning",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/alexperez-cst/algo.js.git"
   },
   "author": "alexperez-cst",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alexperez-cst/algo.js/issues"
   },
