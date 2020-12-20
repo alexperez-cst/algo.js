@@ -1,19 +1,19 @@
 {
   "name": "asap-algo.js",
-  "version": "1.0.2",
-  "description": "Javascript library with the algorithms that i'm learning",
+  "version": "1.0.3",
+  "description": "As Simple As Possible Javascript library with the algorithms that i'm learning",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexperez-cst/algo.js.git"
+    "url": "git+https://github.com/alexperez-cst/asap-algo.js.git"
   },
   "author": "alexperez-cst",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexperez-cst/algo.js/issues"
+    "url": "https://github.com/alexperez-cst/asap-algo.js/issues"
   },
-  "homepage": "https://github.com/alexperez-cst/algo.js#readme"
+  "homepage": "https://github.com/alexperez-cst/asap-algo.js#readme"
 }
