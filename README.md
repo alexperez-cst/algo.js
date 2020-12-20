@@ -1,8 +1,8 @@
-# algo.js
-## Javascript Library with the implementations of all the algorithms that i'm learning.
+# asap-algo.js
+## As Simple As Possible Javascript Library with the implementations of all the algorithms that i'm learning.
 ### Download
 ```
-npm install --save algo.js
+npm install --save asap-algo.js
 ```
 
 ## Functions:
