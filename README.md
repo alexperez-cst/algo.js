@@ -16,7 +16,7 @@ npm install --save asap-algo.js
 * selectionSort(array) O(n^2)
 * mergeSort(array) O(n * log(n))
 * quickSort(array) O(n * log(n))
-### Tree Search
+### Binary Tree Search
 #### b => branches of every node
 #### d => depth of the tree
 #### ⚠ These algorithms assumes that the data property of a node is called 'data', the left node 'left' and the right node 'right'. Also, it returns an array of the data at the order that the function goes on the tree ⚠
