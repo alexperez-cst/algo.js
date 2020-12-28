@@ -7,10 +7,22 @@ npm install --save asap-algo.js
 
 ## Functions:
 ### Array Searching
-* binarySearch O(log(n))
+#### ⚠The function assumes that the array is sorted⚠
+* binarySearch(sortedArray) O(log(n))
 ### Array Sort
-* bubbleSort O(n^2)
-* insertionSort O(n^2)
-* selectionSort O(n^2)
-* mergeSort O(n * log(n))
-* quickSort O(n * log(n))
+#### ⚠The functions returns new arrays and doesn't mutate the originals⚠
+* bubbleSort(array) O(n^2)
+* insertionSort(array) O(n^2)
+* selectionSort(array) O(n^2)
+* mergeSort(array) O(n * log(n))
+* quickSort(array) O(n * log(n))
+### Tree Search
+#### b => branches of every node
+#### d => depth of the tree
+#### ⚠ This algorithms assumes that the data property of a node must be called 'data', the left node 'left' and the right node 'right' ⚠
+* dfsPreorder(rootNode) O(b^d)
+* dfsInorder(rootNode) O(b^d)
+* dfsPostorder(rootNode) O(b^d)
+* breadthFirstSearch(rootNode) O(b^d)
+
+## Please if you trouble some error or recomendation for some of the algorithms open an issue on github, this helps me to improve the algorithms and learn about it.
