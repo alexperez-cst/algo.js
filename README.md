@@ -25,4 +25,4 @@ npm install --save asap-algo.js
 * dfsPostorder(rootNode) O(b^d)
 * breadthFirstSearch(rootNode) O(b^d)
 
-## Please if you trouble some error or recomendation for some of the algorithms open an issue on github, this helps me to improve the algorithms and learn about it.
+## Please if you trouble some error or you have a recomendation for some of the algorithms open an issue on github, this helps me to improve the algorithms and learn about it.
