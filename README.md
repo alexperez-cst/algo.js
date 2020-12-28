@@ -19,7 +19,7 @@ npm install --save asap-algo.js
 ### Tree Search
 #### b => branches of every node
 #### d => depth of the tree
-#### ⚠ This algorithms assumes that the data property of a node must be called 'data', the left node 'left' and the right node 'right' ⚠
+#### ⚠ This algorithms assumes that the data property of a node must be called 'data', the left node 'left' and the right node 'right'. Also, it returns an array of the data on the order that the function goes on the tree ⚠
 * dfsPreorder(rootNode) O(b^d)
 * dfsInorder(rootNode) O(b^d)
 * dfsPostorder(rootNode) O(b^d)
