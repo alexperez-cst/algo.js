@@ -22,7 +22,7 @@ npm install --save asap-algo.js
 
 > _Objects_
 
-#### sort
+- sort
 
 > _Methods_
 
@@ -57,7 +57,7 @@ npm install --save asap-algo.js
 
 > _Class_
 
-#### minPriorityQueue ( Implemented with Min Heap )
+- minPriorityQueue ( Implemented with Min Heap )
 
 > _Methods_
 
@@ -79,7 +79,7 @@ npm install --save asap-algo.js
 
 > _Class_
 
-##### weightedGraph
+- weightedGraph
 
 > _Methods_
 
@@ -96,7 +96,7 @@ npm install --save asap-algo.js
 
 > _Class_
 
-##### unweightedGraph
+- unweightedGraph
 
 > _Methods_
 
