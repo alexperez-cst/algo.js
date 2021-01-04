@@ -1,6 +1,6 @@
 {
   "name": "asap-algo.js",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "As Simple As Possible Javascript library with the algorithms that i'm learning",
   "main": "index.js",
   "scripts": {
