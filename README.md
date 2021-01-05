@@ -22,7 +22,7 @@ npm install --save asap-algo.js
 
 > _Objects_
 
-- sort
+- arraySort
 
 > _Methods_
 
