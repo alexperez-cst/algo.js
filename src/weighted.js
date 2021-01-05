@@ -130,25 +130,3 @@ module.exports = class WeightedGraph{
 		return [dist, previous];
 	}
 }
-const newGraph = new WeightedGraph();
-newGraph.addVertex(1);
-newGraph.addVertex(2);
-newGraph.addVertex(3);
-newGraph.addVertex(4);
-newGraph.addVertex(5);
-newGraph.addVertex(6);
-newGraph.addVertex(9);
-newGraph.addEdge(1, 2,11);
-newGraph.addEdge(1, 6,3);
-newGraph.addEdge(2, 6,5);
-newGraph.addEdge(2, 3,8);
-newGraph.addEdge(3, 4,5);
-newGraph.addEdge(3, 5,12);
-newGraph.addEdge(4, 5,1);
-newGraph.addEdge(5, 6,7);
-newGraph.addEdge(9,3,3);
-newGraph.addEdge(9,4,12);
-console.log(newGraph.breadthFirstSearch(1));
-console.log(newGraph.depthFirstSearch(1));
-console.log(newGraph.numEdges());
-console.log(newGraph.dijkstraPath(1,9));
